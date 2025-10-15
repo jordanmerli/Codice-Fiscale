@@ -1,0 +1,36 @@
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Cod Fiscale\Cod Fiscale\bin\Debug\Estero.mdb
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Cod Fiscale.vbproj.GenerateResource.Cache
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Cod Fiscale\Cod Fiscale\bin\Debug\Codice Fiscale.exe.config
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Cod Fiscale\Cod Fiscale\bin\Debug\Codice Fiscale.exe
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Cod Fiscale\Cod Fiscale\bin\Debug\Codice Fiscale.pdb
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Cod Fiscale\Cod Fiscale\bin\Debug\Codice Fiscale.xml
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice_Fiscale.Form1.resources
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice_Fiscale.Form2.resources
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice_Fiscale.Resources.resources
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice Fiscale.exe
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice Fiscale.xml
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice Fiscale.pdb
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Cod Fiscale\Cod Fiscale\bin\Debug\Estero.mdb
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Cod Fiscale\Cod Fiscale\bin\Debug\Codice Fiscale.exe.config
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Cod Fiscale\Cod Fiscale\bin\Debug\Codice Fiscale.exe
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Cod Fiscale\Cod Fiscale\bin\Debug\Codice Fiscale.pdb
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Cod Fiscale\Cod Fiscale\bin\Debug\Codice Fiscale.xml
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice_Fiscale.Form1.resources
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice_Fiscale.Form2.resources
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice_Fiscale.Resources.resources
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Cod Fiscale.vbproj.GenerateResource.Cache
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice Fiscale.exe
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice Fiscale.xml
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice Fiscale.pdb
+C:\Users\rstore\Box Sync\Progetti\Nuovo Sito\Cod Fiscale\Cod Fiscale\bin\Debug\Codice Fiscale.exe.config
+C:\Users\rstore\Box Sync\Progetti\Nuovo Sito\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice Fiscale.exe
+C:\Users\rstore\Box Sync\Progetti\Nuovo Sito\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice Fiscale.xml
+C:\Users\rstore\Box Sync\Progetti\Nuovo Sito\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice Fiscale.pdb
+C:\Users\rstore\Box Sync\Progetti\Nuovo Sito\Cod Fiscale\Cod Fiscale\bin\Debug\Estero.mdb
+C:\Users\rstore\Box Sync\Progetti\Nuovo Sito\Cod Fiscale\Cod Fiscale\bin\Debug\Codice Fiscale.exe
+C:\Users\rstore\Box Sync\Progetti\Nuovo Sito\Cod Fiscale\Cod Fiscale\bin\Debug\Codice Fiscale.pdb
+C:\Users\rstore\Box Sync\Progetti\Nuovo Sito\Cod Fiscale\Cod Fiscale\bin\Debug\Codice Fiscale.xml
+C:\Users\rstore\Box Sync\Progetti\Nuovo Sito\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice_Fiscale.Form1.resources
+C:\Users\rstore\Box Sync\Progetti\Nuovo Sito\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice_Fiscale.Form2.resources
+C:\Users\rstore\Box Sync\Progetti\Nuovo Sito\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Codice_Fiscale.Resources.resources
+C:\Users\rstore\Box Sync\Progetti\Nuovo Sito\Cod Fiscale\Cod Fiscale\obj\x86\Debug\Cod Fiscale.vbproj.GenerateResource.Cache

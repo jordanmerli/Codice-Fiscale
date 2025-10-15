@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="EsteroDataSet" targetNamespace="http://tempuri.org/EsteroDataSet.xsd" xmlns:mstns="http://tempuri.org/EsteroDataSet.xsd" xmlns="http://tempuri.org/EsteroDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="EsteroConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="EsteroConnectionString (MySettings)" PropertyReference="ApplicationSettings.Codice_Fiscale.My.MySettings.GlobalReference.Default.EsteroConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="databaseTableAdapter" GeneratorDataComponentClassName="databaseTableAdapter" Name="database" UserDataComponentName="databaseTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="EsteroConnectionString (MySettings)" DbObjectName="database" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Stato, Codice FROM [database]</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Stato" DataSetColumn="Stato" />
+              <Mapping SourceColumn="Codice" DataSetColumn="Codice" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="EsteroDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="EsteroDataSet" msprop:Generator_UserDSName="EsteroDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="database" msprop:Generator_TableClassName="databaseDataTable" msprop:Generator_TableVarName="tabledatabase" msprop:Generator_RowChangedName="databaseRowChanged" msprop:Generator_TablePropName="database" msprop:Generator_RowDeletingName="databaseRowDeleting" msprop:Generator_RowChangingName="databaseRowChanging" msprop:Generator_RowEvHandlerName="databaseRowChangeEventHandler" msprop:Generator_RowDeletedName="databaseRowDeleted" msprop:Generator_RowClassName="databaseRow" msprop:Generator_UserTableName="database" msprop:Generator_RowEvArgName="databaseRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Stato" msprop:Generator_ColumnVarNameInTable="columnStato" msprop:Generator_ColumnPropNameInRow="Stato" msprop:Generator_ColumnPropNameInTable="StatoColumn" msprop:Generator_UserColumnName="Stato" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Codice" msprop:Generator_ColumnVarNameInTable="columnCodice" msprop:Generator_ColumnPropNameInRow="Codice" msprop:Generator_ColumnPropNameInTable="CodiceColumn" msprop:Generator_UserColumnName="Codice" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
